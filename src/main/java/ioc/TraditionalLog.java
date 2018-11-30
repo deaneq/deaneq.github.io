@@ -10,6 +10,7 @@ import java.util.List;
 //Canvi fet i pujat per B
 // I ara treballant sobre versió que ha pujat A i jo no he actualitzat
 // Més canvis
+// Canvi després del fork per part de B, propietari
 
 public class TraditionalLog {
 

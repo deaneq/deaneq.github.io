@@ -8,6 +8,7 @@ import java.util.List;
  */
 //Segon canvi, quest en una nova branca
 //Canvi fet i pujat per B
+// I ara treballant sobre versió que ha pujat A i jo no he actualitzat
 public class TraditionalLog {
 
     public static void main(String[] args) {

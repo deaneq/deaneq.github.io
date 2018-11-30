@@ -6,7 +6,7 @@ import java.util.List;
 /**
  * @author Xavi Torrens
  */
-//Segon canvi, quest en una nova branca
+//Segon canvi, quest en una mateixa línia de codi nova (sóc B).
 //Canvi fet i pujat per B
 // I ara treballant sobre versió que ha pujat A i jo no he actualitzat
 // Més canvis

@@ -3,6 +3,8 @@ package ioc.solucio;
 /**
  * @author Xavi Torrens
  */
+
+// Mateixa classe amb una modificacio
 public abstract class LogAbstract implements Log {
 
     private boolean logError;

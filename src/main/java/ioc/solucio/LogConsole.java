@@ -3,6 +3,8 @@ package ioc.solucio;
 /**
  * @author Xavi Torrens
  */
+
+// Un tercer canvi, segon a la branca test
 public class LogConsole extends LogAbstract {
 
     public void logInfo(String textToLog) {

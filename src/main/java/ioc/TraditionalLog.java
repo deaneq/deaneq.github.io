@@ -7,6 +7,7 @@ import java.util.List;
  * @author Xavi Torrens
  */
 //Segon canvi, quest en una nova branca
+//Canvi fet i pujat per B
 public class TraditionalLog {
 
     public static void main(String[] args) {

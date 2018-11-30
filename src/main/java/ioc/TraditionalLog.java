@@ -6,9 +6,12 @@ import java.util.List;
 /**
  * @author Xavi Torrens
  */
+
 //Segon canvi, quest en una (conflicte usuari A) nova branca
 //Canvi fet i pujat per B
 // I ara treballant sobre versió que ha pujat A i jo no he actualitzat
+// Més canvis
+
 public class TraditionalLog {
 
     public static void main(String[] args) {

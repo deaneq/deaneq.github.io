@@ -7,6 +7,7 @@ package ioc.solucio;
 // Un tercer canvi, segon a la branca test
 // El quart commit, el tercer té el commit però encara no està pujat a GitHub 
 // Un canvi treballant amb el meu col·laborador
+// Amb la connexió bona al repo
 
 public class LogConsole extends LogAbstract {
 

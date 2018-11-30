@@ -6,6 +6,7 @@ import java.util.List;
 /**
  * @author Xavi Torrens
  */
+//Segon canvi, quest en una nova branca
 public class TraditionalLog {
 
     public static void main(String[] args) {

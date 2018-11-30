@@ -5,6 +5,7 @@ package ioc.solucio;
  */
 
 // Un tercer canvi, segon a la branca test
+// El quart commit, el tercer té el commit però encara no està pujat a GitHub 
 public class LogConsole extends LogAbstract {
 
     public void logInfo(String textToLog) {
